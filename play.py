@@ -12,5 +12,5 @@ def play():
     pygame.mixer.music.play()
     print '播放中...'
     time.sleep(times)
-    # pygame.mixer.music.stop()
+    pygame.mixer.music.stop()
 
