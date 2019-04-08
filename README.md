@@ -21,3 +21,6 @@
 ## 二、智能语音助手
 > 1.语音识别与合成：[百度语音技术](https://cloud.baidu.com/product/speech) </br>
 > 2.人工智能AI：[图灵机器人](http://www.turingapi.com/) </br>
+## 三、数据来源
+> 1.天气：https://openweathermap.org/ </br>
+> 2.新闻：[FT中文网](http://www.ftchinese.com/)
