@@ -24,3 +24,5 @@
 ## 三、数据来源
 > 1.天气：https://openweathermap.org/ </br>
 > 2.新闻：[FT中文网](http://www.ftchinese.com/)
+# 界面演示图
+![演示](https://github.com/Lemon-Rain/RaspberryPi_Mirror/raw/master/screenshots/演示.png)
